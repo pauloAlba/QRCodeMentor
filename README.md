@@ -2,6 +2,9 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
+
+![imagem_2023-10-01_181623989](https://github.com/pauloAlba/QRCodeMentor/assets/17308374/a01dbf0f-b7b7-443b-a3df-14679f46d763)
+
 ### Build With:
 
 - Semantic HTML5 markup
